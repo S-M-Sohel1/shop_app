@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863058492073",
+    "project_id": "slearning-app",
+    "storage_bucket": "slearning-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863058492073:android:cff1063e8954f15a5987b8",
+        "android_client_info": {
+          "package_name": "com.example.learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5hc6Pw7bmFBzVtGwA2eizQGJdk75dW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
